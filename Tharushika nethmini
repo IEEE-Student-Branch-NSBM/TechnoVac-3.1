@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Tharushika Nethmini</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        text-align: center;
+        margin-top: 60px;
+      }
+
+      .card {
+        display: inline-block;
+        padding: 24px 40px;
+        border: 2px solid #6b46c1;
+        border-radius: 12px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="card">
+      <h1>Tharushika Nethmini</h1>
+      <p>GitHub: @Tharushikaranaweera</p>
+      <p>Favorite language: Java</p>
+      <p>Fun fact: I enjoy learning new things about technology!</p>
+    </div>
+  </body>
+</html>
